@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: linear-gradient(135deg, rgb(34, 34, 153), rgb(84, 163, 253));
+    background-repeat: no-repeat;
+    padding: 15px 25px;
+    height: 300px;
+}
+
+.type {
+    font-weight: 700;
+    color: rgb(159, 203, 237);
+}
+
+.header {
+    font-size: 40px;
+}
+
+.update {
+    font-size: 18px;
+}
+
+a {
+    font-weight: 700;
+}

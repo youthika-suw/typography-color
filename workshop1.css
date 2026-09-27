@@ -1,0 +1,23 @@
+.alltext {
+    margin: 30px;
+}
+.type {
+    color: #2563eb;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.header {
+    font-family: serif;
+    font-size: 40px;
+}
+
+.update {
+    color: gray;
+    font-size: 14px;
+}
+
+.content {
+    font-size: 20px;
+    line-height: 1.5;
+}

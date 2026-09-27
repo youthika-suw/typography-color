@@ -1,0 +1,31 @@
+body {
+    box-sizing: border-box;
+    background-color: rgb(229, 236, 255);
+    font-family: sans-serif;
+}
+
+.announcement {
+    margin: 40px;
+    padding: 10px 20px;
+    background-color: white;
+    border-left: 4px solid rgb(45, 89, 251);
+}
+
+.material-symbols-outlined {
+    vertical-align: middle;
+}
+
+.urgent .material-symbols-outlined {
+    color: blue;
+    font-size: 30px;
+    padding: 0 10px;
+}
+
+.update {
+    color: gray;
+}
+
+.update .material-symbols-outlined {
+    font-size: 20px;
+    padding: 0 10px;
+}

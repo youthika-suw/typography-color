@@ -1,0 +1,22 @@
+body {
+    background-color: #dddddd;
+}
+.quote {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 40px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.message {
+    font-weight: 300;
+}
+
+p {
+    color: rgb(95, 94, 94);
+}
+.next {
+    color: #2563eb;
+    text-decoration: underline;
+}
